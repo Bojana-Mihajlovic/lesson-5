@@ -1,11 +1,11 @@
-/*
+
 COLORS:
 Pink: #FF49E4
 Purple: #9E43E8
 Dark blue:#5A56FF
 Light blue: #4393E8
 Aqua: #ADFFFF
-*/
+
 
 
 body {
@@ -43,16 +43,16 @@ header > h1 {
 
 #nav > ul > button {
     min-width: 178px;
-    background-color: #FF49E4
-    color: #fff;
+    background-color: deepskyblue;
+    color: #5A56FF;
     border: none;
     padding: 15px 32px;
     transition: background-color .25s;
-
+    border-bottom: 2px solid #5A56FF; 
 }
 
 #nav > ul > button:hover {
-    background-color: #9E43E8;
+    background-color: #ADFFFF;
 }
 
 /*.menu {
